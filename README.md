@@ -28,10 +28,10 @@ Project Structure:
 
 <b> Current Implementation</b>
 
-- <b>SPI Driver**: Master mode communication with BME280 sensor
-- <b>UART Interface**: Serial output at 9600 baud for monitoring
-- <b>BME280 Driver**: Direct datasheet implementation without third-party libraries
-- <b>Calibration Algorithms**: Official Bosch compensation formulas for accurate measurements
+- <b>SPI Driver</b> Master mode communication with BME280 sensor
+- <b>UART Interface</b> Serial output at 9600 baud for monitoring
+- <b>BME280 Driver</b> Direct datasheet implementation without third-party libraries
+- <b>Calibration Algorithms</b> Official Bosch compensation formulas for accurate measurements
 
 <b> Features</b>
 
